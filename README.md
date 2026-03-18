@@ -1,8 +1,8 @@
-##Alo! soy Franklin Reyes
+## Alo! soy Franklin Reyes
 
 Bienvenido a mi perfil! Me gusta el desarrollo de software y la programacion, me gusta resolver problemas y desmantelar las cosas hasta ver como se compone un programa (aunque cueste), desgraciadamente
 
-#¿Que lenguajes domino?
+# ¿Que lenguajes domino?
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=ImageJ&logoColor=white&labelColor=101010)]()
