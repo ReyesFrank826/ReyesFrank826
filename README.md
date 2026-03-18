@@ -2,6 +2,14 @@
 
 Bienvenido a mi perfil! Me gusta el desarrollo de software y la programacion, me gusta resolver problemas y desmantelar las cosas hasta ver como se compone un programa (aunque cueste), desgraciadamente
 
+<br>
+💻 Tecnico en desarrollo de software</br>
+👨‍🎓 Estudiante de ingenieria informatica</br>
+☕ Adicto al café</br>
+📫 Correo: 00031126@uca.edu.sv</br>
+<br>
+<br>
+
 # ¿Que lenguajes domino?
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
